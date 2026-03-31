@@ -1,2 +1,2 @@
 # MY-HTML-PRJ
-my first project 
+My first project 
